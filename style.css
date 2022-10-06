@@ -1,0 +1,58 @@
+.nav-img{
+    height: 3rem;
+    width: 10rem;
+}
+
+.full_page{
+    padding:2rem;
+}
+
+.moniH{
+    font-size: 0.9rem;
+}
+
+.moniP{
+    font-size: 0.7rem;
+}
+
+.testimonial_img{
+    width: 50px !important;
+}
+
+.width-fit{
+    width: fit-content !important;
+}
+
+.align-header{
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.align-header nav{
+    min-width: 70%;
+    justify-content: space-between;
+}
+
+.Box-Layout{
+    display: flex;
+    justify-content: center;
+}
+
+.Box-Layout section{
+    max-width: 70%;
+    border-style: groove;
+    border-radius: 10px;
+    background-color: rgb(238, 238, 238);
+}
+
+.align-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+    
+.align-footer div{
+    min-width: 70%;
+    justify-content: space-between;
+}
